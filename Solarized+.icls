@@ -1,10 +1,10 @@
 <scheme name="Solarized+" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-08-15T17:19:39</property>
+    <property name="created">2019-08-16T12:45:50</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-15T17:19:48</property>
+    <property name="modified">2019-08-16T12:45:59</property>
     <property name="originalScheme">Solarized+</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="PragmataPro" />
@@ -833,6 +833,20 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="ELIXIR_CALLBACK" baseAttributes="ELIXIR_SPECIFICATION" />
+    <option name="ELIXIR_FUNCTION_CALL">
+      <value />
+    </option>
+    <option name="ELIXIR_MACRO_CALL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELIXIR_SIGIL" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="ELIXIR_SPECIFICATION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="ELIXIR_TYPE" baseAttributes="DEFAULT_METADATA" />
+    <option name="ELIXIR_TYPE_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="ELIXIR_VALID_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="EL_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="eee8d5" />
@@ -1026,7 +1040,7 @@
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f2e2d2" />
+        <option name="EFFECT_COLOR" value="f2e2d2" />
         <option name="ERROR_STRIPE_COLOR" value="ecdacb" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -1869,14 +1883,17 @@
         <option name="FOREGROUND" value="b58800" />
       </value>
     </option>
+    <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
+    <option name="PHP_EXEC_COMMAND_ID">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>
-    <option name="PHP_TAG">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
-    </option>
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
@@ -2701,7 +2718,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="fdd7b3" />
+        <option name="EFFECT_COLOR" value="fdd7b3" />
         <option name="ERROR_STRIPE_COLOR" value="fdb368" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
