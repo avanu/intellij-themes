@@ -1,10 +1,10 @@
 <scheme name="Solarized+" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-09-16T15:10:27</property>
+    <property name="created">2019-09-25T09:11:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-16T15:10:41</property>
+    <property name="modified">2019-09-25T09:11:38</property>
     <property name="originalScheme">Solarized+</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="PragmataPro" />
