@@ -1,22 +1,22 @@
 <scheme name="Solarized+" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-09-25T09:11:13</property>
+    <property name="created">2020-06-24T13:45:40</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-25T09:11:38</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2020-06-24T13:47:45</property>
     <property name="originalScheme">Solarized+</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="PragmataPro" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LINE_SPACING" value="0.9" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="586e75" />
     <option name="CARET_COLOR" value="dc322f" />
     <option name="CARET_ROW_COLOR" value="f9f2df" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="GUTTER_BACKGROUND" value="fdf6e3" />
     <option name="INDENT_GUIDE" value="eee8d5" />
     <option name="LINE_NUMBERS_COLOR" value="93a1a1" />
@@ -830,7 +830,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ELIXIR_CALLBACK" baseAttributes="ELIXIR_SPECIFICATION" />
     <option name="ELIXIR_FUNCTION_CALL">
       <value />
     </option>
@@ -839,11 +838,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ELIXIR_SIGIL" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="ELIXIR_SPECIFICATION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="ELIXIR_TYPE" baseAttributes="DEFAULT_METADATA" />
-    <option name="ELIXIR_TYPE_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="ELIXIR_VALID_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="EL_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="eee8d5" />
