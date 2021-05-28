@@ -1,10 +1,10 @@
 <scheme name="Light+" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-05-27T08:26:52</property>
+    <property name="created">2021-05-28T09:06:09</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-05-27T08:27:18</property>
+    <property name="modified">2021-05-28T09:06:20</property>
     <property name="originalScheme">Light+</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -86,6 +86,11 @@
         <option name="FOREGROUND" value="8c8c8c" />
       </value>
     </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="8dde" />
+      </value>
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="871094" />
@@ -157,6 +162,7 @@
         <option name="FOREGROUND" value="1750eb" />
       </value>
     </option>
+    <option name="DEFAULT_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -364,6 +370,7 @@
         <option name="FOREGROUND" value="83080" />
       </value>
     </option>
+    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="8080" />
@@ -394,7 +401,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8dde" />
+        <option name="FOREGROUND" value="8c8c8c" />
+        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
