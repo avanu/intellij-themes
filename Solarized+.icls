@@ -1,10 +1,10 @@
 <scheme name="Solarized+" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-24T13:45:40</property>
+    <property name="created">2022-11-09T10:11:07</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-06-24T13:47:45</property>
+    <property name="ideVersion">2022.2.3.0.0</property>
+    <property name="modified">2022-11-09T10:11:25</property>
     <property name="originalScheme">Solarized+</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="PragmataPro" />
@@ -1850,7 +1850,6 @@
         <option name="FOREGROUND" value="b58800" />
       </value>
     </option>
-    <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -1860,7 +1859,6 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
@@ -1941,20 +1939,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
-    <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.STRING">
       <value>
         <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="Predefined types">
       <value>
         <option name="FOREGROUND" value="2688d1" />
