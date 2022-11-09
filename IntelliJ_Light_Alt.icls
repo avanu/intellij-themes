@@ -1,13 +1,13 @@
 <scheme name="IntelliJ Light Alt" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-11-09T10:29:37</property>
+    <property name="created">2022-11-09T16:33:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-09T10:29:45</property>
+    <property name="modified">2022-11-09T16:33:47</property>
     <property name="originalScheme">IntelliJ Light Alt</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="PragmataPro" />
     <option name="EDITOR_FONT_SIZE" value="16" />
@@ -24,6 +24,7 @@
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fcfaed" />
     <option name="GUTTER_BACKGROUND" value="f2f2f2" />
