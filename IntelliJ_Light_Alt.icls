@@ -1,10 +1,10 @@
 <scheme name="IntelliJ Light Alt" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-11-13T22:06:00</property>
+    <property name="created">2023-02-06T15:23:46</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-13T22:06:08</property>
+    <property name="ideVersion">2022.3.1.0.0</property>
+    <property name="modified">2023-02-06T15:24:00</property>
     <property name="originalScheme">IntelliJ Light Alt</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
