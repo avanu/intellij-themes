@@ -1,10 +1,10 @@
 <scheme name="LightModified" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-04-06T17:15:13</property>
+    <property name="created">2023-05-01T15:37:30</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-04-06T17:15:58</property>
+    <property name="ideVersion">2023.1.1.0.0</property>
+    <property name="modified">2023-05-01T15:37:40</property>
     <property name="originalScheme">LightModified</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
