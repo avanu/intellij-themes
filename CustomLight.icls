@@ -1,10 +1,10 @@
 <scheme name="CustomLight" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-08-07T10:21:46</property>
+    <property name="created">2023-08-07T10:23:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.4.0.0</property>
-    <property name="modified">2023-08-07T10:21:53</property>
+    <property name="modified">2023-08-07T10:23:34</property>
     <property name="originalScheme">CustomLight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -206,6 +206,9 @@
       </value>
     </option>
     <option name="DEFAULT_TAG">
+      <value />
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value />
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
